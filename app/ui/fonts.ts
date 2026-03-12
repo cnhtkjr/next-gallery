@@ -6,3 +6,6 @@ const lusitana = Lusitana({ subsets: ['latin'], weight: ['400', '700'] });
 export const fonts = {
 	inter, lusitana
 };
+
+export inter;
+export lusitana;
